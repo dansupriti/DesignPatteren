@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d8d11a5-052f-43d0-8d4a-ad2cc7caac6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/FacadePatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/ShapeMaker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/facade/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2d8d11a5-052f-43d0-8d4a-ad2cc7caac6c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -843,12 +835,12 @@
       <workItem from="1486550370221" duration="3247000" />
       <workItem from="1486635468712" duration="945000" />
       <workItem from="1486764360751" duration="9072000" />
-      <workItem from="1486880059733" duration="1806000" />
+      <workItem from="1486880059733" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28885000" />
+    <option name="totallyTimeSpent" value="29484000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
