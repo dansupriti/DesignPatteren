@@ -2,86 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8d11a5-052f-43d0-8d4a-ad2cc7caac6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AdapterPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AdvancedMediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AudioPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/MediaAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/MediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/Mp4Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/VlcPlayer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/DoubleCheakSingletonExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/EnumSingletonExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/SimpleSingletonExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/SingletonOnDemandExample$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/SingletonOnDemandExample$HelperHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/SingletonOnDemandExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/StaticFactorySingleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/Singleton/TestSingelton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/ABCMutualFundFixed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/ABCMutualFundSIP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/AbstractFactoryCreator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/AbstractPlanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/FixedPlan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/FixedPlanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/MNOMutualFundFixed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/MNOMutualFundSIP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/MutualFundCalculation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/PlanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/SIPPlan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/SIPPlanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/XYZMutualFundFixed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/abstractfactory/XYZMutualFundSIP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/builder/TestBuilderPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/builder/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/builder/UserBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/ABCMutualFund.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/MNOMutualFund.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/MutualFundCalculation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/Plan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/PlanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/factory/XYZMutualFund.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/Circle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/ShapeCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DesignPatternIntellJ/com/sup/practice/prototype/TestPrototype.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/DecoratorPatternDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/RedShapeDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/ShapeDecorator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/DoubleCheakSingletonExample.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/DoubleCheakSingletonExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/EnumSingletonExample.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/EnumSingletonExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/SimpleSingletonExample.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/SimpleSingletonExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/SingletonOnDemandExample.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/SingletonOnDemandExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/StaticFactorySingleton.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/StaticFactorySingleton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/Singleton/TestSingelton.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/TestSingelton.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/ABCMutualFundFixed.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/ABCMutualFundFixed.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/ABCMutualFundSIP.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/ABCMutualFundSIP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/AbstractFactoryCreator.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/AbstractFactoryCreator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/AbstractPlanFactory.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/AbstractPlanFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/FixedPlan.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/FixedPlan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/FixedPlanFactory.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/FixedPlanFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/MNOMutualFundFixed.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/MNOMutualFundFixed.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/MNOMutualFundSIP.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/MNOMutualFundSIP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/MutualFundCalculation.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/MutualFundCalculation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/PlanFactory.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/PlanFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/SIPPlan.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/SIPPlan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/SIPPlanFactory.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/SIPPlanFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/XYZMutualFundFixed.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/XYZMutualFundFixed.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/abstractfactory/XYZMutualFundSIP.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/XYZMutualFundSIP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/builder/TestBuilderPattern.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/builder/TestBuilderPattern.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/builder/User.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/builder/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/builder/UserBuilder.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/builder/UserBuilder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/ABCMutualFund.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/ABCMutualFund.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/MNOMutualFund.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/MNOMutualFund.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/MutualFundCalculation.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/MutualFundCalculation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/Plan.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/Plan.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/PlanFactory.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/PlanFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/factory/XYZMutualFund.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/factory/XYZMutualFund.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/Circle.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/Circle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/Rectangle.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/Rectangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/Shape.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/Shape.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/ShapeCache.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/ShapeCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/Square.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/Square.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/sup/practice/prototype/TestPrototype.java" afterPath="$PROJECT_DIR$/src/com/sup/practice/creational/creational/prototype/TestPrototype.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,45 +34,89 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AudioPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AudioPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdapterPatternDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AdapterPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdvancedMediaPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/AdvancedMediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VlcPlayer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VlcPlayer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/VlcPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="e#216#217#0" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeDecorator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/ShapeDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedShapeDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/RedShapeDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecoratorPatternDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/DecoratorPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,11 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sup/practice/EnumSingletonExample.java" />
-        <option value="$PROJECT_DIR$/src/com/sup/practice/TestSingelton.java" />
-        <option value="$PROJECT_DIR$/src/com/sup/practice/Singleton/TestSingelton.java" />
-        <option value="$PROJECT_DIR$/src/com/sup/practice/factory/ABCMutualFund.java" />
-        <option value="$PROJECT_DIR$/src/com/sup/practice/factory/Plan.java" />
         <option value="$PROJECT_DIR$/src/com/sup/practice/factory/MNOMutualFund.java" />
         <option value="$PROJECT_DIR$/src/com/sup/practice/factory/XYZMutualFund.java" />
         <option value="$PROJECT_DIR$/src/com/sup/practice/factory/PlanFactory.java" />
@@ -239,6 +205,17 @@
         <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/AdapterPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/com/sup/practice/structural/adapter/adapter/VlcPlayer.java" />
         <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rupee.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Dollar.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/USDDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Currency.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/DecoratorPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -274,6 +251,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,6 +286,10 @@
               <option name="myItemId" value="adapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -323,10 +306,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="creational" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -354,8 +333,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -887,12 +864,13 @@
       <workItem from="1486460219023" duration="9753000" />
       <workItem from="1486550370221" duration="3247000" />
       <workItem from="1486635468712" duration="945000" />
-      <workItem from="1486764360751" duration="5073000" />
+      <workItem from="1486764360751" duration="9072000" />
+      <workItem from="1486880059733" duration="771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23080000" />
+    <option name="totallyTimeSpent" value="27850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -904,13 +882,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.49514562" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -922,7 +899,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39401296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40048543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -934,6 +911,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -955,77 +933,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/AbstractFactoryCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/ABCMutualFundSIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/MNOMutualFundSIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/XYZMutualFundSIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/abstractfactory/FixedPlan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/TestSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/EnumSingletonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/TestSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/EnumSingletonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/EnumSingletonExample" />
-    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/EnumSingletonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sup/practice/factory.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/creational/Singleton/TestSingelton.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1073,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,9 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#1360#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1100,7 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,7 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1116,7 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1140,7 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1148,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,7 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,7 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1204,7 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,7 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1260,7 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,7 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1276,7 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1292,7 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1325,11 +1202,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/adapter/VlcPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="e#216#217#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rupee.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Decorator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Dollar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/USDDecorator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Currency.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/DecoratorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sup/practice/creational/structural/adapter/decorator/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
           </folding>
         </state>
       </provider>
